@@ -1,0 +1,15 @@
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\Filmes.Domain.deps.json
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\Filmes.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\ref\Filmes.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\Filmes.Domain.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\Filmes.Infra.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\bin\Debug\net5.0\Filmes.Infra.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.csproj.AssemblyReference.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.AssemblyInfoInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.AssemblyInfo.cs
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.csproj.CopyComplete
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\ref\Filmes.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Domain\obj\Debug\net5.0\Filmes.Domain.pdb

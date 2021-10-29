@@ -1,0 +1,17 @@
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Infra.Data.deps.json
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\ref\Desafio.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Infra.Data.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Infra.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Domain.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Desafio.Infra.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.AssemblyInfo.cs
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\ref\Desafio.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Desafio.Infra.Data.csproj.CopyComplete

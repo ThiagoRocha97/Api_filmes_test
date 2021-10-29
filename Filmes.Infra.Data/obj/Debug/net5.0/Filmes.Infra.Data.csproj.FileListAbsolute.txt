@@ -1,0 +1,17 @@
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Infra.Data.deps.json
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\ref\Filmes.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Infra.Data.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Domain.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Infra.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Domain.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\bin\Debug\net5.0\Filmes.Infra.pdb
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.AssemblyInfo.cs
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.csproj.CopyComplete
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\ref\Filmes.Infra.Data.dll
+C:\Users\thiago.rocha\source\repos\Filmes.API\Filmes.Infra.Data\obj\Debug\net5.0\Filmes.Infra.Data.pdb

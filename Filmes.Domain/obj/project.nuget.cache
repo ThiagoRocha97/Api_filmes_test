@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+AuAS3m+BpYXUVAY35n1aoahjMvf3AjnBEMH/G1g/1kzPVpJh4yHBNGO0n015gxCUOw0i4RY7pQvRZ+/5SPMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.rocha\\source\\repos\\Filmes.API\\Filmes.Domain\\Desafio.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.13.1\\microsoft.identitymodel.jsonwebtokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\microsoft.identitymodel.logging\\6.13.1\\microsoft.identitymodel.logging.6.13.1.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.13.1\\microsoft.identitymodel.tokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.13.1\\system.identitymodel.tokens.jwt.6.13.1.nupkg.sha512",
+    "C:\\Users\\thiago.rocha\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
